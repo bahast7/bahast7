@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahast7&label=Profile%20views&color=0e75b6&style=flat" alt="bahast7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bahastdev" target="blank"><img src="https://img.shields.io/twitter/follow/bahastdev?logo=twitter&style=for-the-badge" alt="bahastdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devbahast" target="blank"><img src="https://img.shields.io/twitter/follow/bahastdev?logo=twitter&style=for-the-badge" alt="bahastdev" /></a> </p>
 
 - 🔭 I’m currently working on [Boewa](https://boewa.org/)
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bahastdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahastdev" height="30" width="40" /></a>
+<a href="https://twitter.com/bahastdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbahast" height="30" width="40" /></a>
 <a href="https://fb.com/bahast.bahjat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bahast.bahjat" height="30" width="40" /></a>
-<a href="https://instagram.com/bahast7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahast7" height="30" width="40" /></a>
+<a href="https://instagram.com/bahast7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahast.bahjat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
