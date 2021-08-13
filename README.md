@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/devbahast" target="blank"><img src="https://img.shields.io/twitter/follow/devbahast?logo=twitter&style=for-the-badge" alt="devbahast" /></a> </p>
 
-- 🔭 I’m currently working on [Boewa](https://boewa.org/)
+- 🔭 I’m CEO & Co-Founder at [Boewa](https://boewa.org/)
+
+- 🔭 I’m IT Support at [SmartHand Co.](https://www.facebook.com/smarthand.company)
 
 - 🌱 I’m currently learning **Advanced Laravel**
 
